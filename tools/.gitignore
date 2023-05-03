@@ -1,0 +1,6 @@
+*.exe
+*.dll
+ffmpeg.*
+*.osx
+*.linux
+*.zip
